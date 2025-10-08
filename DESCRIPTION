@@ -23,7 +23,7 @@ Depends: R (>= 3.5.0)
 Imports: dplyr, tidyr, tidyselect (>= 1.2.0), stringr, ggplot2, ggmap,
         viridis, sf, magrittr, rlang
 Suggests: knitr, markdown, rmarkdown, roxygen2, testthat
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.2
 Encoding: UTF-8
 Maintainer: Rachel Carroll <rachelcarroll4@gmail.com>
 LazyData: true
