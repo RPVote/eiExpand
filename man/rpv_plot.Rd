@@ -31,7 +31,7 @@ rpv_plot(
 )
 }
 \arguments{
-\item{rpvDF}{A data.frame containing RPV results}
+\item{rpvDF}{A data.frame containing RPV results, produced through eiCompare::rpv_toDF()}
 
 \item{title}{The plot title}
 

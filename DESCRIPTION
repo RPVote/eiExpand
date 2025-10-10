@@ -11,7 +11,7 @@ Authors@R:
            comment = c(ORCID = "0000-0002-4447-8204")))
 Type: Package
 Title: Utilities for Expanding Functionality of 'eiCompare'
-Version: 1.0.5
+Version: 1.0.6
 Description: Augments the 'eiCompare' package's Racially Polarized Voting (RPV) 
   functionality to streamline analyses and visualizations used to support 
   voting rights and redistricting litigation. The package implements methods 
@@ -23,7 +23,7 @@ Depends: R (>= 3.5.0)
 Imports: dplyr, tidyr, tidyselect (>= 1.2.0), stringr, ggplot2, ggmap,
         viridis, sf, magrittr, rlang
 Suggests: knitr, markdown, rmarkdown, roxygen2, testthat
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.2
 Encoding: UTF-8
 Maintainer: Rachel Carroll <rachelcarroll4@gmail.com>
 LazyData: true

@@ -11,7 +11,7 @@
 #' 
 #' @description Creates a custom visualization of RPV results
 #'
-#' @param rpvDF A data.frame containing RPV results
+#' @param rpvDF A data.frame containing RPV results, produced through eiCompare::rpv_toDF()
 #' @param title The plot title
 #' @param subtitle The plot subtitle
 #' @param legend_name The legend title
