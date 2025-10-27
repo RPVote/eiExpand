@@ -1,5 +1,5 @@
 # eiExpand 1.0.6
-* Moved rpv_coef_plot and rpv_toDF functions out of this package and into eiCompare
+* Moved rpv_coef_plot(), rpv_toDF(), and rpv_normalize() functions out of this package and into eiCompare
 
 # eiExpand 1.0.5
 * updated split_precinct_analysis() to work when there are no split precincts
